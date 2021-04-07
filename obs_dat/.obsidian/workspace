@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3573d433e34cf7d7",
+        "id": "b3e22ac9c624bf89",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202103061820 Vs code settings.md",
-            "mode": "preview"
+            "file": "202104071301 Диплом.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wsl shu",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202103061820 Vs code settings.md",
+                "file": "202104071301 Диплом.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "202103061820.md",
-    "202103061728 Costomization .bashrc.md",
-    "202103061728.md",
+    "202104071301.md",
+    "Ubuntu/202103061225 WSL2 for Windows Terminal Ubuntu.md",
     "Ubuntu/202103021301 Install powerline for Ubuntu bash.md",
-    "Git Bash/202103031325 Set up SSH for git.md",
-    "202103041550 CA Task.md",
-    "202103061225 WSL2 for Windows Terminal Ubuntu.md",
-    "202103041759 Приложение двенадцати факторов.md",
+    "Pasted image 20210306125044.png.md",
+    "Docker/202102151923 Create Database image.md",
     "Docker/202101290347 Finish task VMmem.md",
-    "CSharp/202101020037 Dotnet console.md"
+    "Docker/202101291836 Rebuild solution.md",
+    "202104052134 App service.md",
+    "202104052134.md",
+    "WebApp/202102020028 Create DB context class for ORM MySql.md"
   ]
 }
