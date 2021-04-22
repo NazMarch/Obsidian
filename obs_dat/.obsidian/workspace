@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "408b07185fa77434",
+        "id": "c16757cac6f26120",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "202103061820 Vs code settings.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202103061820 Vs code settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +102,17 @@
     "width": 164.1999969482422,
     "collapsed": true
   },
-  "active": "408b07185fa77434",
+  "active": "c16757cac6f26120",
   "lastOpenFiles": [
-    "202103061820 Vs code settings.md",
+    "Templates/! Create note.md",
     "202011041557 Obsidian Learnign.md",
-    "202104052134 App service.md",
+    "! Create phrase.md",
+    "Untitled.md",
+    "202103061820 Vs code settings.md",
     "202104071301 Диплом.md",
+    "202104201414 Jira set up.md",
     "202104081339 Позвонить в цнап за субсидию.md",
-    "202104201414.md",
-    "Git Bash/202103031325 Set up SSH for git.md",
-    "Ubuntu/202103061225 WSL2 for Windows Terminal Ubuntu.md",
-    "CSharp/202102082008 Ado.Net Транзакции.md",
-    "CSharp/202103241711 AS and IS on c#.md"
+    "Templates/! Create code block.md",
+    "Templates/Create note.md"
   ]
 }

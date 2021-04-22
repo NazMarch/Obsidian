@@ -73,3 +73,47 @@
 >><span class='flair' style='background-color: red ;color: white;'>Be stronger</span>
 >>> <span class='flair mod-pop' style='color: black;'>Be useful</span>
 >>>> <span class='flair' style='background-color:green'>be patient</span>
+
+
+Admonition:
+
+## Admonition Types
+
+The following admonition types are currently supported:
+
+`ad -<type>`
+
+```ad-abstract
+title: some title
+collapse: open
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
+```
+
+Use the `collapse` parameter to create a collapsible admonition.
+`collapse: open` will start the admonition opened on render, but allow collapse on click.
+If a blank title is provided, the collapse parameter will not do anything.
+
+Type
+
+note
+abstract
+info
+tip
+success
+question
+warning
+failure
+danger
+bug
+example
+quote
+
+
+```ad-success
+title: some title
+collapse: open
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
+```
+
+
+
