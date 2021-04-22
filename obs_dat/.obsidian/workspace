@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b3e22ac9c624bf89",
+        "id": "408b07185fa77434",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202104071301 Диплом.md",
-            "mode": "source"
+            "file": "202103061820 Vs code settings.md",
+            "mode": "preview"
           }
         }
       }
@@ -40,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,10 +76,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202104071301 Диплом.md",
+                "file": "202103061820 Vs code settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -105,16 +106,17 @@
     "width": 164.1999969482422,
     "collapsed": true
   },
+  "active": "408b07185fa77434",
   "lastOpenFiles": [
-    "202104071301.md",
-    "Ubuntu/202103061225 WSL2 for Windows Terminal Ubuntu.md",
-    "Ubuntu/202103021301 Install powerline for Ubuntu bash.md",
-    "Pasted image 20210306125044.png.md",
-    "Docker/202102151923 Create Database image.md",
-    "Docker/202101290347 Finish task VMmem.md",
-    "Docker/202101291836 Rebuild solution.md",
+    "202103061820 Vs code settings.md",
+    "202011041557 Obsidian Learnign.md",
     "202104052134 App service.md",
-    "202104052134.md",
-    "WebApp/202102020028 Create DB context class for ORM MySql.md"
+    "202104071301 Диплом.md",
+    "202104081339 Позвонить в цнап за субсидию.md",
+    "202104201414.md",
+    "Git Bash/202103031325 Set up SSH for git.md",
+    "Ubuntu/202103061225 WSL2 for Windows Terminal Ubuntu.md",
+    "CSharp/202102082008 Ado.Net Транзакции.md",
+    "CSharp/202103241711 AS and IS on c#.md"
   ]
 }
