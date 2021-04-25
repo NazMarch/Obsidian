@@ -75,9 +75,9 @@
 >>>> <span class='flair' style='background-color:green'>be patient</span>
 
 
-Admonition:
 
-## Admonition Types
+
+# Admonition Types
 
 The following admonition types are currently supported:
 
@@ -93,20 +93,20 @@ Use the `collapse` parameter to create a collapsible admonition.
 `collapse: open` will start the admonition opened on render, but allow collapse on click.
 If a blank title is provided, the collapse parameter will not do anything.
 
-Type
 
-note
-abstract
-info
-tip
-success
-question
-warning
-failure
-danger
-bug
-example
-quote
+Type:
+- note
+- abstract
+- info
+- tip
+- success
+- question
+- warning
+- failure
+- danger
+- bug
+- example
+- quote
 
 
 ```ad-success
@@ -116,4 +116,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla.
 ```
 
 
+# Graph
 [[202104252258 Graph]]
+
+# Table
+|Length	| 1	|2	|3	|
+|---	|---|---|---|
+|Length	| 1	|2	|3	|
+|Length	| 1	|2	|3	|
+|Length	| 1	|2	|3	|
+|Length	| 1	|2	|3	|
+|Length	| 1	|2	|3	|

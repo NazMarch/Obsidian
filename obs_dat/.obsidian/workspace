@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f5cf136e4a552ff0",
-        "type": "split",
-        "children": [
-          {
-            "id": "589f336bf8666f04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202104252258 Graph.md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "4d12c474a8122404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202104252258 Graph.md",
-                "mode": "source"
-              }
-            }
+        "id": "463227390555dc04",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "202104252258 Graph.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -125,17 +107,17 @@
     "width": 164.1999969482422,
     "collapsed": true
   },
-  "active": "4d12c474a8122404",
+  "active": "463227390555dc04",
   "lastOpenFiles": [
     "202104252258 Graph.md",
+    "202104252349 Work scheme.md",
     "202011041557 Obsidian Learnign.md",
+    "202104252349.md",
     "202104252258.md",
     "202011140133 Obsidian Shortcuts.md",
     "Templates/! Create note.md",
     "! Create phrase.md",
     "Untitled.md",
-    "202103061820 Vs code settings.md",
-    "202104071301 Диплом.md",
-    "202104201414 Jira set up.md"
+    "202103061820 Vs code settings.md"
   ]
 }
