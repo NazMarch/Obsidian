@@ -4,15 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "463227390555dc04",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "202104252258 Graph.md",
-            "mode": "source"
+        "id": "304868818a2a977c",
+        "type": "split",
+        "children": [
+          {
+            "id": "01c1becc2b47758f",
+            "type": "split",
+            "children": [
+              {
+                "id": "e0f2bef51abb51fa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "202104252349 Work scheme.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "db4d859430093db1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "202104252349 Work scheme.md",
+                    "mode": "preview"
+                  }
+                }
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "e19517a33a77275a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "202104252258 Graph.md",
+                "mode": "preview"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -77,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202104252258 Graph.md",
+                "file": "202104252349 Work scheme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +143,17 @@
     "width": 164.1999969482422,
     "collapsed": true
   },
-  "active": "463227390555dc04",
+  "active": "db4d859430093db1",
   "lastOpenFiles": [
-    "202104252258 Graph.md",
     "202104252349 Work scheme.md",
+    "202104252258 Graph.md",
     "202011041557 Obsidian Learnign.md",
+    "MySQL/202011091508 Load Blob.md",
+    "202011140133 Obsidian Shortcuts.md",
+    "202103061820 Vs code settings.md",
     "202104252349.md",
     "202104252258.md",
-    "202011140133 Obsidian Shortcuts.md",
     "Templates/! Create note.md",
-    "! Create phrase.md",
-    "Untitled.md",
-    "202103061820 Vs code settings.md"
+    "! Create phrase.md"
   ]
 }
