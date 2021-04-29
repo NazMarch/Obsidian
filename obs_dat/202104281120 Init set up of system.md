@@ -1,3 +1,5 @@
+#flexbricks 
+
 1. Install Ubunty
 2. Install Vbox:
 3. Clone windows VB files
@@ -24,3 +26,25 @@ Shared Folders:
 - Installed shared folder: chosen folder path, Auto-mount = true, Mount point: "S:"
 
 From Ubuntu select shared folder in props: Give access to file changes
+
+```ad-danger
+title: Error while pull
+```bash
+git pull origin develop
+
+# if got error:
+# RPC failed
+# result = 56
+# HTTP code = 200MiB
+# fatal: early EOF
+# the remote and hung up unexpected edly
+# fatal: index-pack failed
+
+
+# DO: 
+git config --global http.postBuffer 2M
+git pull origin develop
+```
+
+
+

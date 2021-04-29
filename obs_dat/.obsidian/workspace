@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "77502f88c23adcb3",
+        "id": "7f27b5fa112b1562",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "202104281120 Init set up of system.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Postgre SQL",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 402
   },
   "right": {
     "id": "06a10661c6a4c880",
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202104281120 Init set up of system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +106,17 @@
     "width": 164.1999969482422,
     "collapsed": true
   },
-  "active": "77502f88c23adcb3",
+  "active": "7f27b5fa112b1562",
   "lastOpenFiles": [
     "202104281120 Init set up of system.md",
-    "202104252258 Graph.md",
-    "Flexbricks/202104252349 Work scheme.md",
-    "202104281120.md",
-    "PostgreSQL/202102231700 Postgre SQL.md",
-    "202104252349 Work scheme.md",
     "202011041557 Obsidian Learnign.md",
-    "MySQL/202011091508 Load Blob.md",
+    "Flexbricks/202104252349 Work scheme.md",
+    "202104282006.md",
+    "202104282013.md",
+    "202103041759 Приложение двенадцати факторов.md",
     "202011140133 Obsidian Shortcuts.md",
-    "202103061820 Vs code settings.md"
+    "Git Bash/202103031325 Set up SSH for git.md",
+    "Ubuntu/202103061225 WSL2 for Windows Terminal Ubuntu.md",
+    "Ubuntu/202103061728 Costomization .bashrc.md"
   ]
 }
