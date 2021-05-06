@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2139d386587c4e3e",
+        "id": "2240905447cf6c81",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "202105031202 Unsolved.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202105031202 Unsolved.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +102,17 @@
     "width": 164.1999969482422,
     "collapsed": true
   },
-  "active": "2139d386587c4e3e",
+  "active": "2240905447cf6c81",
   "lastOpenFiles": [
-    "202105031202 Unsolved.md",
-    "Obsidian/202011041557 Obsidian Learnign.md",
-    "202105031202.md",
-    "Ubuntu/202103021301 Install powerline for Ubuntu bash.md",
-    "Ubuntu/202103061225 WSL2 for Windows Terminal Ubuntu.md",
-    "Docs/Pasted image 20210306143811.png",
-    "202011041557 Obsidian Learnign.md",
-    "202104252258 Graph.md",
-    "202104281120 Init set up of system.md",
-    "Git Bash/202011121848 Initial settings.md"
+    "202105061440 Important tables for control panel objects.md",
+    "Flexbricks/202104252349 Work scheme.md",
+    "Flexbricks/202104281120 Init set up of system.md",
+    "Flexbricks/202105031202 Unsolved.md",
+    "Flexbricks/202105061419 Create new item in control panel.md",
+    "202105061440.md",
+    "202105061419 Create new item in control panel.md",
+    "Obsidian/202011140133 Obsidian Shortcuts.md",
+    "Templates/! Create phrase.md",
+    "Templates/! Create note.md"
   ]
 }
