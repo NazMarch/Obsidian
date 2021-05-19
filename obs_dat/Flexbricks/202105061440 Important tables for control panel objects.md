@@ -13,24 +13,35 @@ panel like: Workflows, Case etc.
 like: types of Workflows, Color class etc.
 
 - dlookupquery - has info about queries for XML layouts
+
+- sUILayout - has info about layout data from XML
+- sappsetting - has info about storage configs (path for files)
+ 
+```
+
+```ad-example
+title: dlookquery
+collapse: closed
+
 For example let's look at xml column below:
 
 For lookupqueryid="8ff0a4fa-ac1d-dbeb-7be0-196ec2bb90c6"
 there is a row in database ``dlookupquery`` with select query 
 for table ``pActive``
 
-Just select 
+Just select: 
 
-``select * from dlookupquery 
-where id = '8ff0a4fa-ac1d-dbeb-7be0-196ec2bb90c6'``
-
-
+```sql
+select * from dlookupquery 
+where id = '8ff0a4fa-ac1d-dbeb-7be0-196ec2bb90c6'
 
 ```
 
-
-##### example xml
+```ad-info
+title: XML
+collapse: closed
 ```xml
+
 <Column 
 
 name="Active" column="1" order="003" alias="Active" pk="0" type="dropdownlist" datatype="query" 
@@ -42,5 +53,31 @@ issystemrequired="1" skipdatatranslation="0" multiselectquery="" multiselectsave
 expression="" isaudit="0" attributeaccessmask="-1" 
 lookupqueryid="8ff0a4fa-ac1d-dbeb-7be0-196ec2bb90c6" extraattributes="">
 </Column>
+
+```
+
+
+
+```ad-example
+title: sUILayout
+collapse: closed
+
+Just select: 
+
+```sql
+select * from sUILayout where layoutname = 'Control_pBoot_Search';
+
+
+```
+
+```ad-example
+title: sappsetting
+collapse: open
+
+Just select: 
+
+```sql
+select * from sappsetting where appsettingkey = 'IMAGELOGOPATH';
+
 
 ```
