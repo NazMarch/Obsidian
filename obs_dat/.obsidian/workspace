@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c8eb5b3b22cc0354",
+        "id": "5159bd5c8a4f669d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Flexbricks/202105191837 Create pull request.md",
+            "file": "Flexbricks/202105251405 Git amment previous commit VS.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flexbricks/202105191837 Create pull request.md",
+                "file": "Flexbricks/202105251405 Git amment previous commit VS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +106,17 @@
     "width": 164.1999969482422,
     "collapsed": true
   },
-  "active": "c8eb5b3b22cc0354",
+  "active": "5159bd5c8a4f669d",
   "lastOpenFiles": [
-    "202105191837.md",
-    "202105131702 Important persons.md",
-    "202105131702.md",
-    "Flexbricks/202104252349 Work scheme.md",
-    "Flexbricks/202105061419 Create new item in control panel.md",
+    "202105251405.md",
+    "Flexbricks/202105191837 Create pull request.md",
+    "Flexbricks/202105211047 Create RCA comment for items passed testing.md",
+    "Flexbricks/202105211408 Update CSS.md",
+    "202105211408 Update CSS.md",
+    "Obsidian/202011041557 Obsidian Learnign.md",
+    "202105211408.md",
     "Flexbricks/202105031202 Unsolved.md",
-    "202104252258 Graph.md",
-    "202103041759 Приложение двенадцати факторов.md",
-    "202104071301 Диплом.md",
-    "202104201414 Jira set up.md"
+    "Flexbricks/202105061419 Create new item in control panel.md",
+    "Flexbricks/202105061440 Important tables for control panel objects.md"
   ]
 }
