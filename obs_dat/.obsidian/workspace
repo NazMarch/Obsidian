@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5159bd5c8a4f669d",
+        "id": "67fbf9092eeeaf49",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Flexbricks/202105251405 Git amment previous commit VS.md",
+            "file": "202106181541 Translation Encoding Internal text <a>.md",
             "mode": "source"
           }
         }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402
+    "width": 402,
+    "collapsed": true
   },
   "right": {
     "id": "06a10661c6a4c880",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flexbricks/202105251405 Git amment previous commit VS.md",
+                "file": "202106181541 Translation Encoding Internal text <a>.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,17 +107,17 @@
     "width": 164.1999969482422,
     "collapsed": true
   },
-  "active": "5159bd5c8a4f669d",
+  "active": "67fbf9092eeeaf49",
   "lastOpenFiles": [
-    "202105251405.md",
-    "Flexbricks/202105191837 Create pull request.md",
-    "Flexbricks/202105211047 Create RCA comment for items passed testing.md",
+    "202106181541 Translation Encoding Internal text <a>.md",
+    "Flexbricks/202105251405 Git amment previous commit VS.md",
     "Flexbricks/202105211408 Update CSS.md",
-    "202105211408 Update CSS.md",
-    "Obsidian/202011041557 Obsidian Learnign.md",
-    "202105211408.md",
-    "Flexbricks/202105031202 Unsolved.md",
+    "Flexbricks/202105211047 Create RCA comment for items passed testing.md",
+    "Flexbricks/202105191837 Create pull request.md",
+    "Flexbricks/202105131702 Important persons.md",
     "Flexbricks/202105061419 Create new item in control panel.md",
-    "Flexbricks/202105061440 Important tables for control panel objects.md"
+    "Flexbricks/202105031202 Unsolved.md",
+    "Flexbricks/202104281120 Init set up of system.md",
+    "202106181541.md"
   ]
 }

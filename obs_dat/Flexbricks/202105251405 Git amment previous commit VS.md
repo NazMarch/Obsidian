@@ -4,6 +4,9 @@
 2. Make changes
 3. Stage changes
 4. Select `actions -> amment previous commit`
-5. Select push
-6. remove remote branch
-7. select push
+ If use git bash: `git commit --ammend`
+6. Select push or `git push --force`
+1. remove remote branch
+2. select push
+
+
