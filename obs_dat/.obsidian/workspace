@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3412a37e988708a4",
+        "id": "613bd4841ca4089d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "202106301353 MSTest vs Nunit.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -57,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402,
-    "collapsed": true
+    "width": 402
   },
   "right": {
     "id": "06a10661c6a4c880",
@@ -74,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202106301353 MSTest vs Nunit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,17 +106,17 @@
     "width": 164.1999969482422,
     "collapsed": true
   },
-  "active": "3412a37e988708a4",
+  "active": "613bd4841ca4089d",
   "lastOpenFiles": [
-    "202106301143 Creating Auto Tests.md",
+    "202106301353 MSTest vs Nunit.md",
     "Obsidian/202104252258 Graph.md",
+    "202106301353.md",
+    "202106301143 Creating Auto Tests.md",
     "202106301143.md",
     "Flexbricks/202105211408 Update CSS.md",
     "Flexbricks/202106241535 Creating reports.md",
     "Flexbricks/202106181541 Translation Encoding Internal text <a>.md",
     "Flexbricks/202105251405 Git amment previous commit VS.md",
-    "Flexbricks/202105211047 Create RCA comment for items passed testing.md",
-    "Flexbricks/202105061440 Important tables for control panel objects.md",
-    "Flexbricks/202105061419 Create new item in control panel.md"
+    "Flexbricks/202105211047 Create RCA comment for items passed testing.md"
   ]
 }
