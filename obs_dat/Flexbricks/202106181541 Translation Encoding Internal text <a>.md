@@ -38,5 +38,3 @@ collapse: open
 internalCommentUrl.Text = String.Format(GetSystemTextHTML("Internal Comment {0}"), intCountInternalComments)
 
 ```
-
-[[template]]

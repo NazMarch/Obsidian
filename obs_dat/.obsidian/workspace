@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202106301353 MSTest vs Nunit.md",
+            "file": "WebApp/Blazor/202107041301 Blazor creation.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202106301353 MSTest vs Nunit.md",
+                "file": "WebApp/Blazor/202107041301 Blazor creation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "613bd4841ca4089d",
   "lastOpenFiles": [
+    "WebApp/Blazor/202107041301 Blazor creation.md",
+    "Ubuntu/202103061225 WSL2 for Windows Terminal Ubuntu.md",
+    "Pasted image 20210306125044.png.md",
+    "WebApp/202106031012 Controllers.md",
+    "Flexbricks/202106181541 Translation Encoding Internal text a.md",
+    "202107041301 Blazor creation.md",
+    "Untitled.md",
     "202106301353 MSTest vs Nunit.md",
     "Obsidian/202104252258 Graph.md",
-    "202106301353.md",
-    "202106301143 Creating Auto Tests.md",
-    "202106301143.md",
-    "Flexbricks/202105211408 Update CSS.md",
-    "Flexbricks/202106241535 Creating reports.md",
-    "Flexbricks/202106181541 Translation Encoding Internal text <a>.md",
-    "Flexbricks/202105251405 Git amment previous commit VS.md",
-    "Flexbricks/202105211047 Create RCA comment for items passed testing.md"
+    "202106301353.md"
   ]
 }

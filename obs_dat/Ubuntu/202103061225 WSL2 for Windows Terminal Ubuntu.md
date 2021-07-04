@@ -17,9 +17,6 @@ Then install Ubuntu
 Go to `cd ~` and use `vim .bashrc`
 Delete lines with `dircolors` and test below
 
-Result :
-![[Pasted image 20210306125044.png]]
-
 In the end of .bashrc write 
 
 
