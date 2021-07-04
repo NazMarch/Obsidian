@@ -1,11 +1,27 @@
 #WebApp #Blazor
 
+
+https://www.youtube.com/watch?v=gPkKxY8838E
 On set up select Blazor Server App
 
 - it sends less packets
 - it is more secured
 - it allows to have more control for content
 
+```ad-warning
+title: While you adding new component
+collapse: open
+
+When you adding new component you must import it:
+Go to Shared/Import.razor
+Write here
+```dotnet
+
+@using BlazorApp.[Name of import folder]
+
+It allows you to create pages in the folder as a component
+And then use them as components anywhere.
+```
 
 For every razor page you can create .cs code behind
 
@@ -64,3 +80,4 @@ namespace BlazorApp.Pages
  }  
 }
 ```
+
