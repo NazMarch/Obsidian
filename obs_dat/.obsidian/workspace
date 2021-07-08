@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202106301353 MSTest vs Nunit.md",
+            "file": "202107081201 Return data from any line SQL.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202106301353 MSTest vs Nunit.md",
+                "file": "202107081201 Return data from any line SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "613bd4841ca4089d",
   "lastOpenFiles": [
+    "202107081201 Return data from any line SQL.md",
     "202106301353 MSTest vs Nunit.md",
+    "202107081201.md",
     "202107051334.md",
     "WebApp/Blazor/202107041301 Blazor creation.md",
     "Ubuntu/202103061225 WSL2 for Windows Terminal Ubuntu.md",
     "Pasted image 20210306125044.png.md",
     "WebApp/202106031012 Controllers.md",
     "Flexbricks/202106181541 Translation Encoding Internal text a.md",
-    "202107041301 Blazor creation.md",
-    "Untitled.md",
-    "Obsidian/202104252258 Graph.md"
+    "202107041301 Blazor creation.md"
   ]
 }
