@@ -9,7 +9,7 @@
 
 ```ad-success
 title: Commit message example
-collapse: closed
+collapse: open
 UIMOD-6800 : Image Catalog > Save Search - 'Show / Hide' for search is shifted to the 2nd row
 
  - make cell size smaller

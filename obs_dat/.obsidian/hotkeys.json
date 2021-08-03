@@ -1,0 +1,354 @@
+{
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "к"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "r"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "о"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "j"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "д"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "l"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "у"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "e"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "й"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "q"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "г"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "u"
+    }
+  ],
+  "workspace:close": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ц"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "w"
+    }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "n"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "т"
+    }
+  ],
+  "editor:focus-top": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ш"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "i"
+    }
+  ],
+  "editor:focus-bottom": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "k"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "л"
+    }
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "/"
+    }
+  ],
+  "editor:save-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ы"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "s"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "щ"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "o"
+    }
+  ],
+  "graph:open-local": [],
+  "graph:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "g"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "п"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "editor:open-search": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "f"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "а"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "c"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "с"
+    }
+  ],
+  "editor:follow-link": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "p"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "з"
+    }
+  ],
+  "app:toggle-default-view-mode": [],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ч"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "x"
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "d"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "в"
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "a"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ф"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "file-explorer:new-file": []
+}

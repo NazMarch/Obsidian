@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202107081201 Return data from any line SQL.md",
-            "mode": "source"
+            "file": "202108031202 Restore lost stash.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202107081201 Return data from any line SQL.md",
+                "file": "202108031202 Restore lost stash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "613bd4841ca4089d",
   "lastOpenFiles": [
+    "202108031202 Restore lost stash.md",
+    "202108031202.md",
+    "Flexbricks/202104281120 Init set up of system.md",
+    "Flexbricks/202105061419 Create new item in control panel.md",
+    "Flexbricks/202105191837 Create pull request.md",
+    "Flexbricks/202106241535 Creating reports.md",
+    "Flexbricks/202105211047 Create RCA comment for items passed testing.md",
+    "Flexbricks/202105211408 Update CSS.md",
     "202107081201 Return data from any line SQL.md",
-    "202106301353 MSTest vs Nunit.md",
-    "202107081201.md",
-    "202107051334.md",
-    "WebApp/Blazor/202107041301 Blazor creation.md",
-    "Ubuntu/202103061225 WSL2 for Windows Terminal Ubuntu.md",
-    "Pasted image 20210306125044.png.md",
-    "WebApp/202106031012 Controllers.md",
-    "Flexbricks/202106181541 Translation Encoding Internal text a.md",
-    "202107041301 Blazor creation.md"
+    "202106301353 MSTest vs Nunit.md"
   ]
 }
