@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202108031202 Restore lost stash.md",
-            "mode": "preview"
+            "file": "202103041759 Приложение двенадцати факторов.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202108031202 Restore lost stash.md",
+                "file": "202103041759 Приложение двенадцати факторов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "613bd4841ca4089d",
   "lastOpenFiles": [
+    "202103041759 Приложение двенадцати факторов.md",
+    "202103061820 Vs code settings.md",
+    "202104071301 Диплом.md",
+    "202109011156 Layout UPDATE.md",
+    "202108311025 Fix null values in dropdown search form.md",
     "202108031202 Restore lost stash.md",
-    "202108031202.md",
-    "Flexbricks/202104281120 Init set up of system.md",
-    "Flexbricks/202105061419 Create new item in control panel.md",
-    "Flexbricks/202105191837 Create pull request.md",
-    "Flexbricks/202106241535 Creating reports.md",
-    "Flexbricks/202105211047 Create RCA comment for items passed testing.md",
-    "Flexbricks/202105211408 Update CSS.md",
-    "202107081201 Return data from any line SQL.md",
-    "202106301353 MSTest vs Nunit.md"
+    "Flexbricks/AutoTest/202106301353 MSTest vs Nunit 1.md",
+    "Flexbricks/AutoTest/202106301353 MSTest vs Nunit.md",
+    "202106301353 MSTest vs Nunit.md",
+    "202104201414 Jira set up.md"
   ]
 }

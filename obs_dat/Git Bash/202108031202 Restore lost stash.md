@@ -1,3 +1,5 @@
+#GitBash 
+
 ```ad-warning
 title: Preconditions
 collapse: open
@@ -56,4 +58,11 @@ https://gist.github.com/joseluisq/7f0f1402f05c45bac10814a9e38f81bf
 git log --graph --oneline --decorate $( git fsck --no-reflog | awk '/dangling commit/ {print $3}' )
 
 git stash apply YOUR_WIP_COMMIT_HASH_HERE
+```
+
+```ad-warning
+title: Clean up stashes
+collapse: open
+```bash
+rm .git/refs/stash .git/logs/refs/stash
 ```

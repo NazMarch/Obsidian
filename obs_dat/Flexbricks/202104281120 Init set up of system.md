@@ -15,6 +15,7 @@ System:
 Display:
 - Screen: Video memory - 128 MB, Monitor Count - 1, Graphics controller - VBoxSVGA, ==Acceleration: Enable 3D Acceleration = false ==
 - Other tabs: false
+- Acceleration: ==FALSE==
 
 Storage:
 - Storage devices: 
