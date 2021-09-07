@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202103041759 Приложение двенадцати факторов.md",
+            "file": "202109071628 New Features 0.14 release.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202103041759 Приложение двенадцати факторов.md",
+                "file": "202109071628 New Features 0.14 release.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "613bd4841ca4089d",
   "lastOpenFiles": [
+    "202109071628.md",
+    "Images/Pasted image 20201206200732.png",
+    "Flexbricks/202109011156 Layout UPDATE.md",
+    "202109021418 LINQ VB .NET.md",
+    "202109021418.md",
     "202103041759 Приложение двенадцати факторов.md",
     "202103061820 Vs code settings.md",
     "202104071301 Диплом.md",
     "202109011156 Layout UPDATE.md",
-    "202108311025 Fix null values in dropdown search form.md",
-    "202108031202 Restore lost stash.md",
-    "Flexbricks/AutoTest/202106301353 MSTest vs Nunit 1.md",
-    "Flexbricks/AutoTest/202106301353 MSTest vs Nunit.md",
-    "202106301353 MSTest vs Nunit.md",
-    "202104201414 Jira set up.md"
+    "202108311025 Fix null values in dropdown search form.md"
   ]
 }
