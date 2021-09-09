@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "202109071628 New Features 0.14 release.md",
-            "mode": "source"
+            "file": "CSharp/202109021418 LINQ VB .NET.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "LINQ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202109071628 New Features 0.14 release.md",
+                "file": "CSharp/202109021418 LINQ VB .NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +109,15 @@
   },
   "active": "613bd4841ca4089d",
   "lastOpenFiles": [
-    "202109071628.md",
-    "Images/Pasted image 20201206200732.png",
+    "CSharp/202109021418 LINQ VB .NET.md",
     "Flexbricks/202109011156 Layout UPDATE.md",
+    "Flexbricks/202109071628 New Features 0.14 release.md",
+    "Flexbricks/202109071725 UserMask Permission.md",
+    "202109012331 JSON Tools.md",
     "202109021418 LINQ VB .NET.md",
-    "202109021418.md",
-    "202103041759 Приложение двенадцати факторов.md",
-    "202103061820 Vs code settings.md",
-    "202104071301 Диплом.md",
-    "202109011156 Layout UPDATE.md",
-    "202108311025 Fix null values in dropdown search form.md"
+    "202109071725 UserMask Permission.md",
+    "202109071725.md",
+    "202109071628 New Features 0.14 release.md",
+    "202109071628.md"
   ]
 }
