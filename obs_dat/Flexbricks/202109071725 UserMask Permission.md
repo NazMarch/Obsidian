@@ -44,3 +44,22 @@ Acess denied if in line:
 Convert.ToBoolean((1 and 8) = 0)) - acess denied
 
 ```
+
+
+```ad-info
+title: Some info
+collapse: open
+```sql
+
+--	Usage Mask
+--	2 - PLM users only
+--	8 - SRM users only
+--	10 - SRM+PLM users
+-- etc
+
+select * from sapplicationpage where id in ('1ee035b1-c5a1-43d0-90f5-54ed1e8506de','1f12d004-5045-4e89-9ae1-8322609abe7b','49aba1d4-ae4c-4591-b8ac-83b15dc145a4');
+UPDATE public.sapplicationpage
+SET usagemask=10
+WHERE id='1ee035b1-c5a1-43d0-90f5-54ed1e8506de'::uuid;
+
+```

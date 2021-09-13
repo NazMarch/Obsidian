@@ -8,5 +8,3 @@ collapse: open
 Method BuildEditorJS() in Style_DimensionalBOM_DimBOM
 
 ```
-
-[[template]]

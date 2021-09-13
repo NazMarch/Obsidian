@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "613bd4841ca4089d",
+        "id": "d7609b02e617eafa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "CSharp/202109021418 LINQ VB .NET.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "LINQ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSharp/202109021418 LINQ VB .NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +102,17 @@
     "width": 164.1999969482422,
     "collapsed": true
   },
-  "active": "613bd4841ca4089d",
+  "active": "d7609b02e617eafa",
   "lastOpenFiles": [
+    "Flexbricks/202108131122 Js features for aspx.md",
+    "Flexbricks/202109071725 UserMask Permission.md",
+    "202109131706.md",
     "CSharp/202109021418 LINQ VB .NET.md",
     "Flexbricks/202109011156 Layout UPDATE.md",
     "Flexbricks/202109071628 New Features 0.14 release.md",
-    "Flexbricks/202109071725 UserMask Permission.md",
     "202109012331 JSON Tools.md",
     "202109021418 LINQ VB .NET.md",
     "202109071725 UserMask Permission.md",
-    "202109071725.md",
-    "202109071628 New Features 0.14 release.md",
-    "202109071628.md"
+    "202109071725.md"
   ]
 }
